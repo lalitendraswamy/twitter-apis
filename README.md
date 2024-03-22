@@ -1,6 +1,6 @@
 ### Twiiter API's Demo
 
-Visit the live demo [here]([https://your-demo-link.com](https://twitter-apis.onrender.com/)).
+Visit the live demo [here](https://twitter-apis.onrender.com).
 
 Given an `app.js` file and a database file `twitterClone.db` consisting of five tables `user`, `follower`, `tweet`, `reply`, and `like`.
 
