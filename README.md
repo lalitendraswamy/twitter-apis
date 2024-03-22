@@ -1,4 +1,4 @@
-### Twiiter API's Demo
+### Twiiter API's with Authentication
 
 Visit the live demo [here](https://twitter-apis.onrender.com).
 
